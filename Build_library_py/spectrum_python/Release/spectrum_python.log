@@ -1,0 +1,35 @@
+﻿  API.cpp
+D:\LVTN2023\Build_library_py\spectrum_python\API.cpp(1071,27): warning C4244: '=': conversion from 'uint16' to 'unsigned char', possible loss of data
+D:\LVTN2023\Build_library_py\spectrum_python\API.cpp(1551,27): warning C4244: '=': conversion from 'uint16' to 'unsigned char', possible loss of data
+D:\LVTN2023\Build_library_py\spectrum_python\API.cpp(1553,27): warning C4244: '=': conversion from 'uint16' to 'unsigned char', possible loss of data
+  evm.cpp
+  NIRScanner.cpp
+D:\LVTN2023\Build_library_py\spectrum_python\NIRScanner.cpp(577,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\LVTN2023\Build_library_py\spectrum_python\NIRScanner.cpp(588,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\LVTN2023\Build_library_py\spectrum_python\NIRScanner.cpp(665,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  NIRScanner_wrap.cxx
+  usb_nir.cpp
+  dlpspec.c
+  dlpspec_calib.c
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_calib.c(192,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_calib.c(927,25): warning C4244: '=': conversion from 'double' to 'int8_t', possible loss of data
+  dlpspec_helper.c
+  dlpspec_scan.c
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_scan.c(884,27): warning C4018: '<': signed/unsigned mismatch
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_scan.c(889,62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  dlpspec_scan_col.c
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_scan_col.c(165,26): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+  dlpspec_scan_had.c
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_scan_had.c(260,76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  dlpspec_util.c
+  mmap.c
+  Serial.c
+  tpl.c
+D:\LVTN2023\Build_library_py\spectrum_python\tpl.c(24,32): warning C4081: expected 'newline'; found '.'
+D:\LVTN2023\Build_library_py\spectrum_python\tpl.c(2344,80): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\LVTN2023\Build_library_py\spectrum_python\Release\_NIRScanner.lib and object D:\LVTN2023\Build_library_py\spectrum_python\Release\_NIRScanner.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 499 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  spectrum_python.vcxproj -> D:\LVTN2023\Build_library_py\spectrum_python\Release\_NIRScanner.pyd

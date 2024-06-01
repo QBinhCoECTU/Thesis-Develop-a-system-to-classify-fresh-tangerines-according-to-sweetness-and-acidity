@@ -1,0 +1,15 @@
+D:\LVTN2023\Build_library_py\spectrum_python\API.cpp;D:\LVTN2023\Build_library_py\spectrum_python\Release\API.obj
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\dlpspec.obj
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_calib.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\dlpspec_calib.obj
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_helper.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\dlpspec_helper.obj
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_scan.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\dlpspec_scan.obj
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_scan_col.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\dlpspec_scan_col.obj
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_scan_had.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\dlpspec_scan_had.obj
+D:\LVTN2023\Build_library_py\spectrum_python\dlpspec_util.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\dlpspec_util.obj
+D:\LVTN2023\Build_library_py\spectrum_python\evm.cpp;D:\LVTN2023\Build_library_py\spectrum_python\Release\evm.obj
+D:\LVTN2023\Build_library_py\spectrum_python\mmap.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\mmap.obj
+D:\LVTN2023\Build_library_py\spectrum_python\NIRScanner.cpp;D:\LVTN2023\Build_library_py\spectrum_python\Release\NIRScanner.obj
+D:\LVTN2023\Build_library_py\spectrum_python\NIRScanner_wrap.cxx;D:\LVTN2023\Build_library_py\spectrum_python\Release\NIRScanner_wrap.obj
+D:\LVTN2023\Build_library_py\spectrum_python\Serial.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\Serial.obj
+D:\LVTN2023\Build_library_py\spectrum_python\tpl.c;D:\LVTN2023\Build_library_py\spectrum_python\Release\tpl.obj
+D:\LVTN2023\Build_library_py\spectrum_python\usb_nir.cpp;D:\LVTN2023\Build_library_py\spectrum_python\Release\usb_nir.obj

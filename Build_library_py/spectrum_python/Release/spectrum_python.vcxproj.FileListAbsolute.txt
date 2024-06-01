@@ -1,0 +1,1 @@
+D:\LVTN2023\Build_library_py\spectrum_python\Release\_NIRScanner.pyd
